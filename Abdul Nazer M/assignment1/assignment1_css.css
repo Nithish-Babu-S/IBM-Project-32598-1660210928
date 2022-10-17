@@ -1,0 +1,34 @@
+Body {  
+    font-family: Calibri, Helvetica, sans-serif;  
+    background-color:rgb(222, 177, 177);  
+  }  
+  button {   
+         background-color:palegoldenrod;   
+         width: 100%;  
+          color: orange;   
+          padding: 15px;   
+          margin: 10px 0px;   
+          border: none;   
+          cursor: pointer;   
+           }   
+     
+   input[type=text], input[type=password],input[type=email] {   
+          width: 100%;   
+          margin: 8px 0;  
+          padding: 12px 12px 12px;   
+          display: inline-block;   
+          border: 2px solid black;   
+          box-sizing: border-box;   
+      }  
+   button:hover {   
+          opacity: 0.7;   
+      }   
+       
+       
+   .container {   
+          padding: 50px;   
+          background-color:royalblue;
+          padding: 15px;
+          width: 25%;
+          
+      }
